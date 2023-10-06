@@ -4,7 +4,7 @@ O objetivo deste projeto consiste em corrigir a base de dados de uma instituiç�
 
 Inicialmente realizei observei a base de dados e realizei análises de algumas colunas individualmente
 
-Após identificar os erros da base de dados, realizei as correções necessárias, que estão descritas abaixo e também no código
+Após identificar os erros da base de dados, fiz as correções necessárias, que estão encontram-se abaixo e também no código
 
 Listagem de correções realizadas:
 ​
